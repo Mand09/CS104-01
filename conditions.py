@@ -9,10 +9,8 @@ while temp!= 999:
         print("Bring a jacket")
     elif temp >="32":
         print("Wear a heavy jacket")
-    elif temp<"32" or temp>100:
-        print("Stay Inside")    
-    else:
-        break
+    else:print("Stay Inside")  
+    
 
 
 
